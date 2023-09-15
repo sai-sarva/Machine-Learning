@@ -16,9 +16,9 @@ MACRO_FILE = 'C:/Users/sayan/Likewize/Operations Data Warehouse - Macro_TsnCube/
 MACRO_NAMES = ['refreshData', 'CommitRanging']
 
 # define email parameters
-FROM_ADDRESS = "sayanthan.sarvananthan@likewize.com"
-EMAIL_PASSWORD = "Likewize@14"
-TO_ADDRESS = ["analyticsandinsights.au@likewize.com"]
+FROM_ADDRESS = "supplychainOceania@brightstar.com"
+EMAIL_PASSWORD = "W98h4XSNaa"
+TO_ADDRESS = ["analyticsandinsights.au@likewize.com", "sayanthan.sarvananthan@likewize.com"]
 SMTP_SERVER = "smtp.office365.com"
 SMTP_PORT = 587
 
